@@ -61,4 +61,22 @@ Quit the server with CTRL-BREAK.
 
 
 ## Welcome Page
+![](images/welcome.png)
+
+## Sign In Page
+![](images/signin.png)
+
+## Sign Up Page
+![](images/signup.png)
+
+## Home Page (After Signing In)
 ![](images/home.png)
+
+## Menu (After Signing In)
+![](images/menu.png)
+
+## Cart (After Signing In)
+![](images/cart.png)
+
+## Customization of Burger (After Signing In)
+![](images/custom.png)
